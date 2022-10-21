@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  background-color: rgb(228, 215, 240);
+  background-image: url("Images/machine.png");
+}
+
+.container {
+  background-color: rgb(241, 236, 246);
+  padding: 4%;
+  margin-top: 4%;
+  border-radius: 10px 80px 30px 80px;
+  /* display: flex; */
+}
+
+.mynav {
+  padding: 1%;
+  background-color: rgb(162, 130, 192);
+  /* height: 8%; */
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.lo-fi {
+  padding: 2% 1%;
+  border-radius: 30px;
+}
+
+.design {
+  padding: 2% 1%;
+  border-radius: 30px;
+}
+
+#footer {
+  margin-top: 3%;
+  background-color: rgb(187, 208, 221);
+  padding-bottom: 1%;
+  padding-left: 1%;
+}
+
+a:link {
+  color: rgb(143, 59, 59);
+}
+
+h2 {
+  padding-bottom: 1%;
+}
